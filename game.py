@@ -1,5 +1,5 @@
 import pygame,sys
-def ball_animation():
+def ball_animation() :
     global ball_speed_x,ball_speed_y,player,player_speed,opponent_speed,opponent      
     ball.x +=ball_speed_x
     ball.y +=ball_speed_y
