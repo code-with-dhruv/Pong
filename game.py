@@ -1,5 +1,5 @@
 import pygame,sys
-# big bug not working sdjcnsdjncd
+# big bug not working sdjcnsdjncdsqknqkqn
 def ball_animation():
     global ball_speed_x,ball_speed_y,player,player_speed,opponent_speed,opponent      
     ball.x +=ball_speed_x
